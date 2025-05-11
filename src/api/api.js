@@ -16,7 +16,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: 'AIzaSyCCKvdJcltvUoZXKPwHFEaYZBEhSETEE', // Проверьте, что apiKey корректен
+	apiKey: 'AIzaSyCCKvdiQcltVuozxkPwHVfeAyzBEhseTEE', // Проверьте, что apiKey корректен
 	authDomain: 'e-wallet-1d19a.firebaseapp.com',
 	projectId: 'e-wallet-1d19a',
 	storageBucket: 'e-wallet-1d19a.firebasestorage.app',
